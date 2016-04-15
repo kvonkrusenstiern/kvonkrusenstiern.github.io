@@ -3,11 +3,12 @@ layout: post
 title: "MapBox Studio Workshop"
 date: 2016-04-15
 ---
+Hey this is me live blogging the live, hands on tutorial at <a href="http://cugos.org/2016-spring-fling/">CUGOS Spring Fling</a>. If you are interested in learning on your own, check out the tutorial made from the MapBox folks right <a href="http://cugos.org/studio-workshop/">here</a).
 
 Part 1. What is MapBox?
 Underlying data from OpenStreetMap, a citizen science, collaborative, data conglomerate.
-<p></p>Satellite data from NASA; made a cloudless, seamless, basemap.
-<p></p>Add your own data!
+Satellite data from NASA; made a cloudless, seamless, basemap.
+Add your own data!
 
 Part 2. The MapBox Studio Editor
 Create new style, chose streets as basic, and play around.
