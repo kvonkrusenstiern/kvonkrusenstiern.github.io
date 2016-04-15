@@ -6,8 +6,8 @@ date: 2016-04-15
 
 Part 1. What is MapBox?
 Underlying data from OpenStreetMap, a citizen science, collaborative, data conglomerate.
->Satellite data from NASA; made a cloudless, seamless, basemap.
->Add your own data!
+<p></p>Satellite data from NASA; made a cloudless, seamless, basemap.
+<p></p>Add your own data!
 
 Part 2. The MapBox Studio Editor
 Create new style, chose streets as basic, and play around.
@@ -21,3 +21,6 @@ Heyyo! You can add your own data with Studio!
 >Your new layer is added as tileset. Or is is tileset is added as a layer? Example with Seattle cameras.
 >Here is mine <a href="https://api.mapbox.com/styles/v1/kvonkrusenstiern/cin286spo001ea6melrc7ze2k.html?title=true&access_token=pk.eyJ1Ijoia3ZvbmtydXNlbnN0aWVybiIsImEiOiJjaWg0MHo3d2QweTMxdnFtM3I3NHNqaHh6In0.oHCT_zMio7G2ft24bm9gmw#10/47.60651183080344/-122.35480472330534/0">here!</a>
 
+part 4. Getting fancier!!
+
+more about personalizing. Check out <a href="https://api.mapbox.com/styles/v1/kvonkrusenstiern/cin286spo001ea6melrc7ze2k.html?title=true&access_token=pk.eyJ1Ijoia3ZvbmtydXNlbnN0aWVybiIsImEiOiJjaWg0MHo3d2QweTMxdnFtM3I3NHNqaHh6In0.oHCT_zMio7G2ft24bm9gmw#16/47.65201907306417/-122.3076395573712/0">these</a> rad hatched buildings at UW campus in Seattle, WA!
