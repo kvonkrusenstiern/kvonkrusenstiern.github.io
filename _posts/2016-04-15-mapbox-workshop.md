@@ -3,7 +3,7 @@ layout: post
 title: "MapBox Studio Workshop"
 date: 2016-04-15
 ---
-Hey this is me live blogging the live, hands on tutorial at <a href="http://cugos.org/2016-spring-fling/">CUGOS Spring Fling</a>. If you are interested in learning on your own, check out the tutorial made from the MapBox folks right <a href="http://cugos.org/studio-workshop/">here</a).
+Hey this is me live blogging the live, hands on tutorial at <a href="http://cugos.org/2016-spring-fling/">CUGOS Spring Fling</a>. If you are interested in learning on your own, check out the tutorial made from the MapBox folks right <a href="http://cugos.org/studio-workshop/">here</a>.
 
 Part 1. What is MapBox?
 Underlying data from OpenStreetMap, a citizen science, collaborative, data conglomerate.
