@@ -33,8 +33,14 @@ a:hover {
 h1 {
     font-size: 3em;
 }
+
+h2 {
+    font-size: 3 em;
+}
+
+}
 p {
-    font-size: 1.2em;
+    font-size: 1.0em;
     line-height: 1.4em;
     color: #333;
 }
