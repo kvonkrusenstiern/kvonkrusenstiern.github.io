@@ -2,11 +2,13 @@ body {
     margin: 60px auto;
     width: 70%;
     background-color:rgb(236,237,194);
+    font-family: trebuchet ms, arial, hevetica, sans-serif;
 }
 header {
     border-bottom: 1px solid #d5d5d5;
     text-align: center;
     font-size: 18px;
+    font-family: trebuchet ms, arial, hevetica, sans-serif;
 }
 
 img {
@@ -15,45 +17,54 @@ img {
 }
 
 nav ul, footer ul {
+    font-family: trebuchet ms, arial, hevetica, sans-serif;
     text-align:center;
     padding: 0px;
     list-style: none;
 }
 nav ul li, footer ul li {
+    font-family: trebuchet ms, arial, hevetica, sans-serif;
     display: inline;
     margin-right: 20px;
 }
 a {
+    font-family: trebuchet ms, arial, hevetica, sans-serif;
     text-decoration: none;
     color: #999;
 }
 a:hover {
-    text-decoration: underline;
+    text-decoration: bold;
 }
 h1 {
+    font-family: trebuchet ms, arial, hevetica, sans-serif;
     font-size: 3em;
 }
 
 h2 {
-    font-size: 3 em;
+    font-family: trebuchet ms, arial, hevetica, sans-serif;
+    font-size: 3em;
 }
 
 }
 p {
+    font-family: trebuchet ms, arial, hevetica, sans-serif;
     font-size: 1.0em;
     line-height: 1.4em;
     color: #333;
 }
 footer {
+    font-family: trebuchet ms, arial, hevetica, sans-serif;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
 
 ul.posts { 
+    font-family: trebuchet ms, arial, hevetica, sans-serif;
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
 
 ul.posts li {
+    font-family: trebuchet ms, arial, hevetica, sans-serif;
     list-style: none;
 }
