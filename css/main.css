@@ -79,6 +79,7 @@ ul.posts li {
 
 li.special_text {
     font-weight: none;
+    font-size: 18px;
     color: rgb(31,74,132);
     font-family: trebuchet ms, arial, hevetica, sans-serif;;
 }
