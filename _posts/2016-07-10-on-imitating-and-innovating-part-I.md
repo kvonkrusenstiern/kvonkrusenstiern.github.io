@@ -12,11 +12,11 @@ After nearly five years away from academics, I just began a M.Sc. in the field o
 
 In this piece, Schofeld elaborates on what he sees as the four stages to becoming a scientist. His thesis: that science is not about the truth. The fourth phase especially resonated with me.
 
->“This is when you realize that science is not about finding the truth at all, 
+*>“This is when you realize that science is not about finding the truth at all, 
 >but about finding better ways of being wrong. The best scientific theory is not
 >the one that reveals the truth — that is impossible. It is the one that explains 
 >what we already know about the world in the simplest way possible, and that 
->makes useful predictions about the future.”
+>makes useful predictions about the future.”*
 
 Science isn’t about answers, but rather questions. The only “truth” is that every result leads to more questions, and consequently more research. I love this idea because it shows that science will never die, and every experiment will carry a legacy.
 
