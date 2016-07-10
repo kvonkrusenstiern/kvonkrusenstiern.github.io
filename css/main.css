@@ -36,7 +36,8 @@ a:hover {
 }
 h1 {
     font-family: trebuchet ms, arial, hevetica, sans-serif;
-    font-size: 3em;
+    font-size: 2em;
+    padding: 0px;
 }
 
 h2 {
