@@ -10,7 +10,7 @@ These are my thoughts:
 
 After nearly five years away from academics, I just began a M.Sc. in the field of oceanography. I am in a new world, and am grateful for the opportunity to explore realm of information that doesn’t naturally align with my undergraduate studies. Navigating research is overwhelming, but Schofeld’s words have given me a firm anchor to fall back on when I think of myself, and my now path into the marine sciences(1). 
 
-In this piece, Schofeld elaborates on what he sees as the four stages to becoming a scientist. His thesis: that science is not about the truth. The fourth phase especially resonated with me.
+>In this piece, Schofeld elaborates on what he sees as the four stages to becoming a scientist. His thesis: that science is >not about the truth. The fourth phase especially resonated with me.
 
 “This is when you realize that science is not about finding the truth at all, but about finding better ways of being wrong. The best scientific theory is not the one that reveals the truth — that is impossible. It is the one that explains what we already know about the world in the simplest way possible, and that makes useful predictions about the future.”
 
