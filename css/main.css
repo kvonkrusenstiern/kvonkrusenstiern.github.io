@@ -68,3 +68,17 @@ ul.posts li {
     font-family: trebuchet ms, arial, hevetica, sans-serif;
     list-style: none;
 }
+
+.floatleft {
+    float:left;
+}
+
+.floatright {
+    float:right;
+}
+
+li.special_text {
+    font-weight: bold;
+    color: black;
+    font-family: trebuchet ms, arial, hevetica, sans-serif;;
+}
